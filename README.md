@@ -2,7 +2,7 @@
 
 # **SW 개발 기술 문서**
 
-## [Banking System 프로그램]##
+## [Banking System 프로그램]
 
 
 하 승 민
